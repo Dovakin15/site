@@ -1,0 +1,35 @@
+body{
+    background-image: url(imeg2.webp);
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+img{
+width: 1400px;
+height: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color:azure;
+    background-color: rgba(0,0,0,0.8);
+    text-align:center;
+    font-size: 60px;
+}
+p1{
+    color:azure;
+    background-color: rgba(0,0,0,0.8);
+    text-align:left;
+    font-size: 30px;
+}
+h2{
+     color:azure;
+    background-color: rgba(0,0,0,0.8);
+    text-align:left;
+    font-size: 40px;
+}
+a{
+     background-color: rgba(0,0,0,0.8);
+    font-size: 30px;
+}
